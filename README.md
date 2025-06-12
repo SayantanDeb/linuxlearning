@@ -5,6 +5,15 @@
 `useradd <username>`
 ### Set Password
 `passwd <username>`
+### Delete User
+`userdel -r <username>`
+
+
+# Group Management
+### Create Group
+- `groupadd <groupname>`
+### Delete Group
+- `groupdel <groupname>`
 
 
 # SSH Key generation
